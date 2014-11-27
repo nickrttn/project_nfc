@@ -1,0 +1,82 @@
+# Bootstrap Templating & Layout Opties
+
+Bootstrap biedt een complete set HTML, Less en JavaScript voor het bouwen van responsive, mobile-first websites, van een grid tot typografie. Voor praktische zaken, zoals het gebruiken van classes, kijk op [http://www.getbootstrap.com/](getbootstrap.com). Het uiterlijk van Bootstrap is over het algemeen clean en neutraal, maar wel erg 'boilerplate' (standaard).
+
+## Basic Bootstrap
+
+De basis van Bootstrap, gemaakt in CSS, is:
+
+- Gridsysteem, responsive en mobile-first, gebaseerd op 12 kolommen, met een vaste grootte of een 'fluid container' die de hele breedte van het scherm gebruikt.
+- Typografisch systeem, gebaseerd op Helvetica Neue, een fontgrootte van 14px en een line-height van 1.428em
+- Styling van code
+- Styling van tabellen
+- Styling van formulieren
+- Styling voor buttons
+- Styling en responsive afbeeldingen
+- Verschillende 'helper-classes', zoals context-kleuren, icoontjes, floats, classes om content te centreren, een clearfix en manieren om bepaalde content alleen voor bepaalde devices (zoals screen-readers) te laten zien.
+- Responsive Utilities, waarmee je HTML-elementen kunt verbergen of laten zien op verschillende schermmaten.
+
+### Grid
+
+Het grid dat bij Bootstrap zit bouw je op door een `div` of ander HTML-element zoals `main` met de class `.container` of `.container-fluid` in je HTML te plaatsen. Deze elementen kunnen niet in andere elementen te staan.
+
+De grid bestaat uit 12 kolommen, welke geplaatst worden in een HTML-element met de `.row` class. Deze class biedt CSS/Less voor een rij van 12 kolommen. Deze kolommen kun je bepalen door meer dan 40 verschillende classes:
+
+- `.col-xs-1` tot `.col-xs-12` // mobile schermen
+- `.col-sm-1` tot `.col-sm-12` // tablets
+- `.col-md-1` tot `.col-md-12` // medium-sized schermen
+- `.col-lg-1` tot `.col-lg-12` // grote (retina) schermen
+
+Je kunt deze classes combineren om de layout voor elke schermmaat te kunnen bepalen.
+
+### LESS
+
+Bootstrap is gebaseerd op LESS, een CSS-preprocessor. Hiermee kun je efficiënter, makkelijker en nettere CSS schrijven met behulp van een app-je als [https://incident57.com/codekit/](Codekit) (er zijn ook gratis alternatieven beschikbaar, zoals [http://koala-app.com/](Koala). Er is ook een SASS-port van Bootstrap, voor mensen die liever SASS gebruiken als preprocessor.
+
+## Bootstrap Componenten
+
+Bootstrap biedt naast de basis-onderdelen, allerlei kant-en-klare componenten die je zo in je website kunt gebruiken, zoals verschillende navigaties, modals, icoontjes en dropdowns. Op [http://getbootstrap.com/components/](getbootstrap.com/components/) kun je meer lezen over de verschillende componenten en voorbeelden vinden over hoe je ze toe kunt passen.
+
+Een lijst met verschillende componenten die in Bootstrap te vinden zijn:
+
+- Glyphicons
+- Dropdowns
+- Buttons groups
+- Button dropdowns
+- Input groups
+- Navs
+- Navbar
+- Breadcrumbs
+- Pagination
+- Labels
+- Badges
+- Jumbotron
+- Page header
+- Thumbnails
+- Alerts
+- Progress bars
+- Media object
+- List group
+- Panels
+- Responsive embed
+- Wells
+
+### JavaScript componenten
+
+Naast de componenten die in CSS (vaak in combinatie met Javascript) gemaakt zijn, bevat Bootstrap ook nog een grote verzameling JavaScripts waarmee je allerlei animaties, sliders, alerts en meer kunt toevoegen aan je pagina. Voor voorbeelden en toepassingen kun je kijken op [http://getbootstrap.com/javascript/](getbootstrap.com/javascript/). Let op: voor alle Bootstrap JavaScripts heb je óók jQuery nodig!
+
+Dit zijn de verschillende JavaScript onderdelen die Bootstrap bevat:
+
+- Transities
+- Modals
+- Dropdowns
+- Scrollspy
+- Tab
+- Tooltips
+- Popovers
+- Alerts
+- Buttons
+- Collapse
+- Carousel
+- Affix
+
