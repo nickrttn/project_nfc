@@ -18,7 +18,7 @@ De basis van Bootstrap, gemaakt in CSS, is:
 
 ### Grid
 
-Het grid dat bij Bootstrap zit bouw je op door een `div` of ander HTML-element zoals `main` met de class `.container` of `.container-fluid` in je HTML te plaatsen. Deze elementen kunnen niet in andere elementen te staan.
+Het grid dat bij Bootstrap zit bouw je op door een `div` of ander HTML-element zoals `main` met de class `.container` of `.container-fluid` in je HTML te plaatsen. Elementen met deze classes kunnen niet in andere elementen met Bootstrap-classes zoals `row` staan.
 
 De grid bestaat uit 12 kolommen, welke geplaatst worden in een HTML-element met de `.row` class. Deze class biedt CSS/Less voor een rij van 12 kolommen. Deze kolommen kun je bepalen door meer dan 40 verschillende classes:
 
