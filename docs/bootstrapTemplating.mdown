@@ -33,6 +33,11 @@ Je kunt deze classes combineren om de layout voor elke schermmaat te kunnen bepa
 
 Bootstrap is gebaseerd op LESS, een CSS-preprocessor. Hiermee kun je efficiënter, makkelijker en nettere CSS schrijven met behulp van een app-je als [Codekit](https://incident57.com/codekit/) (er zijn ook gratis alternatieven beschikbaar, zoals [Koala](http://koala-app.com/). Er is ook een SASS-port van Bootstrap, voor mensen die liever SASS gebruiken als preprocessor.
 
+Door LESS te gebruiken is het ook mogelijk allerlei variabelen in Bootstrap aan te passen, zoals de standaard fontgrootte, lettertypes, kleuren, line-heights en nog veel meer.
+
+### Bron
+CSS · Bootstrap. (n.d.). Retrieved November 24, 2014, from http://getbootstrap.com/css/
+
 ## Bootstrap Componenten
 
 Bootstrap biedt naast de basis-onderdelen, allerlei kant-en-klare componenten die je zo in je website kunt gebruiken, zoals verschillende navigaties, modals, icoontjes en dropdowns. Op [getbootstrap.com/components](http://getbootstrap.com/components/) kun je meer lezen over de verschillende componenten en voorbeelden vinden over hoe je ze toe kunt passen.
@@ -61,7 +66,7 @@ Een lijst met verschillende componenten die in Bootstrap te vinden zijn:
 - Responsive embed
 - Wells
 
-### JavaScript componenten
+### JavaScript
 
 Naast de componenten die in CSS (vaak in combinatie met Javascript) gemaakt zijn, bevat Bootstrap ook nog een grote verzameling JavaScripts waarmee je allerlei animaties, sliders, alerts en meer kunt toevoegen aan je pagina. Voor voorbeelden en toepassingen kun je kijken op [getbootstrap.com/javascript](http://getbootstrap.com/javascript/). Let op: voor alle Bootstrap JavaScripts heb je óók jQuery nodig!
 
@@ -80,3 +85,7 @@ Dit zijn de verschillende JavaScript onderdelen die Bootstrap bevat:
 - Carousel
 - Affix
 
+### Bronnen
+Components · Bootstrap. (n.d.). Retrieved November 27, 2014, from http://getbootstrap.com/components/
+
+JavaScript · Bootstrap. (n.d.). Retrieved November 27, 2014, from http://getbootstrap.com/javascript/
