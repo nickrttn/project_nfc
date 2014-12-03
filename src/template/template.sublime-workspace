@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"good",
+				"goodbyeWorld"
+			],
+			[
+				"this",
+				"thisUserObject"
+			],
+			[
+				"userlis",
+				"userListData"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"userLIs",
+				"userListData"
+			],
+			[
+				"table",
+				"tableContent"
+			],
+			[
+				"goo",
+				"goodbyeWorld"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"line-height",
+				"line-height-computed"
+			],
+			[
+				"get_stylesh",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_scripts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"npm: Install Package"
+			],
+			[
+				"syn jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git qc",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gqc",
+				"Git: Quick Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"subl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git cqc",
+				"Git: Quick Commit"
+			],
+			[
+				"gq",
+				"Git: Quick Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brow",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"synt mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"synt",
+				"Set Syntax: LESS"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nick/MEGA/school/P/2/NFC/src/template/assets"
+	],
+	"file_history":
+	[
+		"/Users/nick/MEGA/school/P/2/NFC/src/template/dist/css/bootstrap-theme.css",
+		"/Users/nick/MEGA/school/P/2/NFC/src/template/dist/index.html",
+		"/Users/nick/MEGA/school/P/2/NFC/src/template/less/theme.less",
+		"/Users/nick/MEGA/school/P/2/NFC/src/template/dist/less/screen.less",
+		"/Users/nick/MEGA/school/P/2/NFC/src/template/css/main.css",
+		"/Users/nick/.juju/environments.yaml",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nick/Developer/mean/server.js",
+		"/Users/nick/Developer/mean/package.json",
+		"/Users/nick/Developer/nodetest2/public/stylesheets/style.css",
+		"/Users/nick/Developer/nodetest1/views/helloworld.jade",
+		"/Users/nick/MEGA/school/Propedeuse/Blok 2/HCI/littleBigDetails/littleBigDetails.md",
+		"/Users/nick/MEGA/school/Propedeuse/Blok 2/Project 2/src/kaal-template/dist/css/bootstrap-theme.css",
+		"/Users/nick/MEGA/school/Propedeuse/Blok 2/Project 2/src/kaal-template/dist/css/screen.css",
+		"/Users/nick/Developer/nodetest1/package.json",
+		"/Users/nick/Developer/nodetest1/routes/index.js",
+		"/Users/nick/Developer/nodetest1/app.js",
+		"/Users/nick/Developer/myMEANapp/package.json",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/nick/MEGA/school/Propedeuse/Blok 2/Project 2/bootstrapTemplating/bootstrapTemplating.mdown",
+		"/Users/nick/Developer/meanTodoApp/node_modules/gulp-watch/package.json",
+		"/Users/nick/Developer/meanTodoApp/node_modules/gulp-watch/README.md",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/nick/.bash_profile",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/nick/.path",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/woocommerce/content-product_cat.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/woocommerce/archive-product.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/assets/less/layouts/_woocommerce.less",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/index.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/assets/less/layouts/_sidebar.less",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/template-home.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/archive.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/category.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/templates/content-product.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/templates/content.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/lib/extras.php",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/assets/less/layouts/_general.less",
+		"/Users/nick/Developer/sjakies/development/www/wordpress-default/wp-content/themes/sjakies/assets/less/layouts/pages/_archives.less",
+		"/Users/nick/MEGA/school/Propedeuse/Blok 2/P&P/vm/week2/wp-config.php",
+		"/Users/nick/MEGA/school/Propedeuse/Blok 2/P&P/vm/sftp-config.json",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/Users/nick/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<span class=\"glyphicon glyphicon-flash\"></span>",
+			"glyph",
+			"browser",
+			".thumbnails",
+			"related",
+			".widget_shopping",
+			"upload_on"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"project": "template.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
