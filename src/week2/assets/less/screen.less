@@ -1,0 +1,55 @@
+@mint: rgba(86, 194, 62, 1.0);
+@green: rgba(40, 113, 25, 1.0);
+
+.brand-color {
+	color: @mint;
+}
+
+.landing {
+	background: url('../images/cover.jpg') center center;
+}
+
+.site-wrapper {
+	.cover-heading {
+		text-transform: uppercase;
+	}
+	&:nth-child(2) {
+		background-color: @mint;
+	}
+	&:nth-child(3) {
+		background-color: @green;
+		.col-sm-4 {
+			p {
+				text-align: justify;
+				font-size: 16px;
+			}
+		}
+	}
+	&:nth-child(2), &:nth-child(3) {
+		.col-sm-4 {
+			p {
+				text-align: justify;
+				font-size: 16px;
+			}
+		}
+	}
+	&:nth-child(4) {
+		form {
+			text-align: left;
+		}
+	}
+}
+
+.nav {
+	li {
+		a {
+			font-weight: 400;
+		}
+	}
+}
+
+.btn-cover {
+	background-color: @mint;
+	border-color: @mint;
+	color: white;
+}

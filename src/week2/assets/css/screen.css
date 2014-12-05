@@ -1,0 +1,35 @@
+.brand-color {
+  color: #56c23e;
+}
+.landing {
+  background: url('../images/cover.jpg') center center;
+}
+.site-wrapper .cover-heading {
+  text-transform: uppercase;
+}
+.site-wrapper:nth-child(2) {
+  background-color: #56c23e;
+}
+.site-wrapper:nth-child(3) {
+  background-color: #287119;
+}
+.site-wrapper:nth-child(3) .col-sm-4 p {
+  text-align: justify;
+  font-size: 16px;
+}
+.site-wrapper:nth-child(2) .col-sm-4 p,
+.site-wrapper:nth-child(3) .col-sm-4 p {
+  text-align: justify;
+  font-size: 16px;
+}
+.site-wrapper:nth-child(4) form {
+  text-align: left;
+}
+.nav li a {
+  font-weight: 400;
+}
+.btn-cover {
+  background-color: #56c23e;
+  border-color: #56c23e;
+  color: white;
+}
