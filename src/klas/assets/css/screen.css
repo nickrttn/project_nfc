@@ -4,6 +4,9 @@
 .landing {
   background: url('../images/cover.jpg') center center;
 }
+.site-wrapper .masthead {
+  z-index: 99999;
+}
 .site-wrapper .cover-heading {
   text-transform: uppercase;
 }

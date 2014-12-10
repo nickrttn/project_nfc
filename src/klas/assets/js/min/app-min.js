@@ -1,1 +1,1 @@
-$(document).ready(function(){smoothScroll.init()});
+$(document).ready(function(){var e=$(window).height();$(".site-wrapper .carousel .carousel-inner .item").css("max-height",e+"px"),smoothScroll.init()});
