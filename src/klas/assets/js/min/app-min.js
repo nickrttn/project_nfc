@@ -1,1 +1,1 @@
-$(document).ready(function(){var e=$(window).height();$(".site-wrapper .carousel .carousel-inner .item").css("max-height",e+"px"),smoothScroll.init()});
+$(document).ready(function(){var e=$(window).height(),i=$(".site-wrapper .carousel .carousel-inner .item");i.css("max-height",e+"px"),smoothScroll.init()});

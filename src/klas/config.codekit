@@ -56,6 +56,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/images\/cover.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 615846,
+		"inputAbbreviatedPath": "\/assets\/images\/cover.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/cover.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/team1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -216,7 +227,7 @@
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/less\/cover.less",
 		"outputAbbreviatedPath": "\/assets\/css\/cover.css",

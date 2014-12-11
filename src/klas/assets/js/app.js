@@ -1,8 +1,9 @@
 $(document).ready(function() {
 
-	var windowHeight = $(window).height();
+	var windowHeight = $(window).height(),
+			carouselItem = $('.site-wrapper .carousel .carousel-inner .item');
 
-	$('.site-wrapper .carousel .carousel-inner .item').css('max-height', windowHeight + 'px');
+	carouselItem.css('max-height', windowHeight + 'px');
 
 	smoothScroll.init();
 
